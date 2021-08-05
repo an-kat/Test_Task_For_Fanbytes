@@ -1,0 +1,47 @@
+.container {
+    margin-top: 10px;
+    width: 380px;
+    border-radius: 5px;
+    height: 90px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.position {
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    color: #5479E1;
+    font-family: "Roboto", serif;
+    margin-left: 7%;
+}
+
+.profileImage {
+    width: 70px;
+    margin-left: 6%;
+    display: inline-block;
+}
+
+.username {
+    margin-left: 4%;
+    display: inline-block;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+    color: #343A40;
+}
+
+.points {
+    position: absolute;
+    margin-left: 320px;
+    display: inline-block;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 0.4px;
+    color: #343A40;
+}

@@ -1,0 +1,33 @@
+.container {
+    background-color: #FFFFFF;
+    height: 40px;
+    width: 380px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    display: flex;
+    align-items: center;
+}
+
+.container p {
+    display: inline-block;
+    font-family: "Roboto", serif;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.4px;
+    color: #343A40;
+}
+
+.firstHeader {
+    margin-left: 4.5%;
+}
+
+.secondHeader {
+    margin-left: 30%;
+}
+
+.thirdHeader {
+    margin-left: 27%;
+}

@@ -1,0 +1,15 @@
+.paper {
+    background-color: #5479E1;
+    width: 380px;
+}
+
+.tab {
+    color: #FFFFFF;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
